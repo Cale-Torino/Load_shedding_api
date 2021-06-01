@@ -7,6 +7,10 @@
     * [ELD portal](https://eld.safe-tvigil.com)
     * [F&Q](https://tickets.safe-tvigil.com)
 
+In South Africa there is a massive shortage of electricity. Compounded by incompetent governance.
+In order to stretch out the resources we have rolling blackouts implemented by ESKOM (South African electricity public utility).
+Below is a way to get the times of when the blackout will start and end for every district in South Africa via a Web API.
+
 ## 1. Get Status
 
 `Get status of loadshedding` [*Check if there is any loadshedding*]
