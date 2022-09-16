@@ -1,11 +1,15 @@
 # Loadshedding API doc
 
-*Developed by C.A Torino, SAFE-TVIGIL*
-* Links to SAFE-TVIGIL(llc) USA.
-    * [Website](https://safe-tvigil.com)
-    * [CMS portal](https://cms.safe-tvigil.com)
-    * [ELD portal](https://eld.safe-tvigil.com)
-    * [F&Q](https://tickets.safe-tvigil.com)
+[<img src="img/logo.png" width="500"/>](img/logo.png)
+
+---
+
+*Developed by C.A Torino, TECHRAD Radical Technology*
+* Links to TECHRAD ZA.
+    * [Website](https://www.techrad.co.za)
+    * [Tutorial website](https://tutorials.techrad.co.za)
+    * [Support website](https://support.techrad.co.za)
+    * [API](https://www.techrad.co.za/apisource/public/apps/fusio)
 
 In South Africa there is a massive shortage of electricity. Compounded by incompetent governance.
 In order to stretch out the resources we have rolling blackouts implemented by ESKOM (South African electricity public utility).
