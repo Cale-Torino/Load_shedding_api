@@ -23,7 +23,7 @@ namespace SePush_API_Example
                 .AddInMemoryCollection()
                 .Build();
 
-            options.Token = "fzizvRSAOvkrlqFgk09r";//fzizvRSAOvkrlqFgk09r yourtokengoeshere
+            options.Token = "yourtokengoeshere";//yourtokengoeshere
 
             optionsMock.SetupGet(x => x.CurrentValue).Returns(options);
 
