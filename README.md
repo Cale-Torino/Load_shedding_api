@@ -11,6 +11,8 @@
     * [Support website](https://support.techrad.co.za)
     * [API](https://www.techrad.co.za/apisource/public/apps/fusio)
 
+Check out [my article](https://tutorials.techrad.co.za/2022/10/06/practically-using-the-load-shedding-api) and my [practical example](https://github.com/Cale-Torino/Practical_Usage_Load_Shedding_API) for an example application use case.
+
 In South Africa there is a massive shortage of electricity. Compounded by incompetent governance.
 In order to stretch out the resources we have rolling blackouts implemented by ESKOM (South African electricity public utility).
 Below is a way to get the times of when the blackout will start and end for every district in South Africa via a Web API.
