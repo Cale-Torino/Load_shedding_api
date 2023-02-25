@@ -19,6 +19,19 @@ In South Africa there is a massive shortage of electricity. Compounded by incomp
 In order to stretch out the resources we have rolling blackouts implemented by ESKOM (South African electricity public utility).
 Below is a way to get the times of when the blackout will start and end for every district in South Africa via a Web API.
 
+**NB**
+I noticed recently the `https://loadshedding.eskom.co.za` url has a _requested rejected_ error. 
+
+If this is the case for you.. please use the [**ESP** API](https://eskomsepush.gumroad.com/l/api). 
+
+If you are not a business... you can get a free token on a monthly plan and 50 requests per day.
+
+[<img src="img/1.jpg" width="500"/>](img/1.jpg)
+
+[<img src="img/2.jpg" width="500"/>](img/2.jpg)
+
+[<img src="img/3.jpg" width="500"/>](img/3.jpg)
+
 ## 1. Get Status
 
 `Get status of loadshedding` [*Check if there is any loadshedding*]
